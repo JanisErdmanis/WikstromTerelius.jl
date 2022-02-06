@@ -1,0 +1,36 @@
+# This file is machine-generated - editing it directly is not advised
+
+julia_version = "1.7.0-rc1"
+manifest_format = "2.0"
+
+[[deps.Base64]]
+uuid = "2a0f44e3-6c83-55bd-87e4-b1978d98bd5f"
+
+[[deps.Infiltrator]]
+deps = ["REPL"]
+git-tree-sha1 = "310a9b99c994c4bd7ea99119a4f420c107654f75"
+uuid = "5903a43b-9cc3-4c30-8d17-598619ec4e9b"
+version = "1.1.2"
+
+[[deps.InteractiveUtils]]
+deps = ["Markdown"]
+uuid = "b77e0a4c-d291-57a0-90e8-8db25a27a240"
+
+[[deps.Markdown]]
+deps = ["Base64"]
+uuid = "d6f4376e-aef5-505a-96c1-9c027394607a"
+
+[[deps.Mods]]
+git-tree-sha1 = "7416683a2cc6e8c9caee75b569c993cfe34e522d"
+uuid = "7475f97c-0381-53b1-977b-4c60186c8d62"
+version = "1.3.2"
+
+[[deps.REPL]]
+deps = ["InteractiveUtils", "Markdown", "Sockets", "Unicode"]
+uuid = "3fa0cd96-eef1-5676-8a61-b3b8758bbffb"
+
+[[deps.Sockets]]
+uuid = "6462fe0b-24de-5631-8697-dd941f90decc"
+
+[[deps.Unicode]]
+uuid = "4ec0a83e-493e-50e2-b9ac-8f72acf5a8f5"
